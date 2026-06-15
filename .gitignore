@@ -41,3 +41,5 @@ Thumbs.db
 .nest/
 CLAUDE.md
 API.md
+
+scan.py
